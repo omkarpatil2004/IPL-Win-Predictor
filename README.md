@@ -93,6 +93,6 @@ These features are fed into a trained ML pipeline (`pipe.pkl`) to predict the ch
 **Omkar Abhaykumar Patil**
 📧 [patilomkar0307@gmail.com.com](mailto:patilomkar0307@gmail.com)
 🔗 [GitHub](https://github.com/omkarpatil2004)
-🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/omkar-patil-6a2275263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+🔗 [LinkedIn](https://www.linkedin.com/in/omkar-patil-6a2275263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
