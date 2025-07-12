@@ -59,15 +59,15 @@ These features are fed into a trained ML pipeline (`pipe.pkl`) to predict the ch
 
 ```
 📁 IPL-Win-Predictor/
-├── app.py               # Main Streamlit app
-├── pipe.pkl             # Trained ML model
-├── requirements.txt     # Python libraries
-├── Screenshot.PNG       # UI screenshot for README
-├── project.ipynb        # Model training & EDA notebook
-├── matches.csv         # Match dataset
-├── deliveries.csv         # Delivery dataset
-├── description.pdf      # Project report (optional)
-└── README.md            # This file
+├── app.py                        # Main Streamlit app
+├── pipe.pkl                      # Trained ML model
+├── requirements.txt              # Python libraries
+├── Screenshot.PNG                # UI screenshot for README
+├── IPL_Win_Predictor.ipynb       # Model training & EDA notebook
+├── matches.csv                   # Match dataset
+├── deliveries.csv                # Delivery dataset
+├── description.pdf               # Project report (optional)
+└── README.md                     # This file
 ```
 
 ---
