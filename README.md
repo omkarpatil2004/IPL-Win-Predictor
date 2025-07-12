@@ -1,7 +1,6 @@
 🏏 IPL Win Predictor
 
 
-````markdown
 # 🏏 IPL Win Predictor
 
 A simple and interactive web app built with **Streamlit** that predicts the win probability of an IPL team based on the current match situation. Just input live match details like score, overs, wickets, and teams — and get instant win predictions!
@@ -10,7 +9,7 @@ A simple and interactive web app built with **Streamlit** that predicts the win 
 
 ## 🖼️ Preview
 
-![IPL Win Predictor Screenshot](https://raw.githubusercontent.com/omkarpatil2004/IPL-Win-Predictor/main/Screenshot.PNG)
+![IPL Win Predictor Screenshot](Screenshot.PNG)
 
 ---
 
