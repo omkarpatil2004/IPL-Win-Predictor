@@ -10,7 +10,7 @@ A simple and interactive web app built with **Streamlit** that predicts the win 
 
 ## 🖼️ Preview
 
-![IPL Win Predictor Screenshot](Screenshot.PNG)
+![IPL Win Predictor Screenshot](https://raw.githubusercontent.com/omkarpatil2004/IPL-Win-Predictor/main/Screenshot.PNG)
 
 ---
 
