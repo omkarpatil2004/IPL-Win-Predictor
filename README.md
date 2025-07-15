@@ -1,6 +1,3 @@
-🏏 IPL Win Predictor
-
-
 # 🏏 IPL Win Predictor
 
 A simple and interactive web app built with **Streamlit** that predicts the win probability of an IPL team based on the current match situation. Just input live match details like score, overs, wickets, and teams — and get instant win predictions!
