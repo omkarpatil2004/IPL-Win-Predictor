@@ -38,7 +38,6 @@ These features are fed into a trained ML pipeline (`pipe.pkl`) to predict the ch
    ```bash
    git clone https://github.com/omkarpatil2004/IPL-Win-Predictor.git
    cd IPL-Win-Predictor
-````
 
 2. **Install dependencies**
 
