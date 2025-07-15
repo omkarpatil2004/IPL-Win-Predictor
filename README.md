@@ -83,7 +83,7 @@ These features are fed into a trained ML pipeline (`pipe.pkl`) to predict the ch
 
 ## 🌐 Live Demo (optional)
 
-> Will be added after deployment on [Streamlit Cloud](https://streamlit.io/cloud)
+> Will be added after deployment on [Streamlit Cloud](https://ipl-win-predictor-omkarpatil2004.streamlit.app)
 
 ---
 
