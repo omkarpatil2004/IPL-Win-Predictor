@@ -84,7 +84,7 @@ We use a **Random Forest Classifier**, an ensemble learning technique that const
 
 ## 🌐 Live Demo (optional)
 
-> Will be added after deployment on [Streamlit Cloud](https://ipl-win-predictor-omkarpatil2004.streamlit.app)
+>  [Streamlit Cloud](https://ipl-win-predictor-omkarpatil2004.streamlit.app)
 
 ---
 
