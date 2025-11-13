@@ -6,7 +6,7 @@ A simple and interactive web app built with Streamlit that predicts the win prob
 
 ---
 
-## 🌐 Live Demo (optional)
+## 🌐 Live Demo 
 
 >  [Streamlit Cloud](https://ipl-win-predictor-omkarpatil2004.streamlit.app)
 
