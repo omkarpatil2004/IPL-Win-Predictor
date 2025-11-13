@@ -6,6 +6,12 @@ A simple and interactive web app built with Streamlit that predicts the win prob
 
 ---
 
+## 🌐 Live Demo (optional)
+
+>  [Streamlit Cloud](https://ipl-win-predictor-omkarpatil2004.streamlit.app)
+
+---
+
 ## 🖼️ Preview
 
 ![IPL Win Predictor Screenshot](Screenshot.PNG)
@@ -79,12 +85,6 @@ We use a **Random Forest Classifier**, an ensemble learning technique that const
 * Pandas & NumPy 📊
 * Scikit-learn 🤖
 * Pickle 📦
-
----
-
-## 🌐 Live Demo (optional)
-
->  [Streamlit Cloud](https://ipl-win-predictor-omkarpatil2004.streamlit.app)
 
 ---
 
